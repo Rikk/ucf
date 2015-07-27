@@ -3,7 +3,7 @@ Unicode Character Finder
 
 This is a simple JavaScript application for searching/browsing Unicode
 characters.  You can see it in action at
-[http://liip.to/unicode](http://liip.to/unicode).
+http://www.mclean.net.nz/ucf/ or http://rikk.github.io/ucf/.
 
 See the application's built-in help for usage instructions.
 
