@@ -38,7 +38,7 @@ For more information about the script and the format of the file it produces,
 use the `--help` option.
 
 If you have trouble installing dependencies or running the script, you can
-always just [grab the data file from the web site](http://www.mclean.net.nz/ucf/char-data-nounihan.txt)
+always just [grab the data file from the web site](http://www.mclean.net.nz/ucf/char-data-nounihan.txt).
 
 
 
